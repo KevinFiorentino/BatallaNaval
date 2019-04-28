@@ -1,3 +1,9 @@
-# BatallaNaval
+# Batalla Naval
 
-Universidad Nacional de Lanús - Redes y Comunicaciones 2016
+## Universidad Nacional de Lanús - Licenciatura en Sistemas
+
+### Cátedra Redes y Comunicaciones 2016
+
+* Java
+* Sockets
+* Cliente/Servidor
